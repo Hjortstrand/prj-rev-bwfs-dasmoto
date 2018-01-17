@@ -1,0 +1,35 @@
+ /* font-family for entire page */
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+/* Big header styling */
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: Khaki;
+	text-align: center;
+	background-image: url(./pattern.jpeg);
+}
+/* font style for product headers */
+.product h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+/* background color for product headers */
+#brush {
+	background-color: mediumspringgreen;
+}
+
+#frame {
+	background-color: lightcoral;
+}
+
+#paint {
+	background-color: skyblue;
+}
+/* font style for prices */
+.price {
+	font-weight: bold;
+	color: blue;
+}
